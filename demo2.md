@@ -92,3 +92,31 @@ These examples demonstrate how the instruction, input,
 28. Implement
 29. Construct
 30. Identify
+
+input
+
+1. Data
+2. Text
+3. Article
+4. Image
+5. Report
+6. Question
+7. Spreadsheet
+8. Code
+9. Audio
+10. Video
+11. Feedback
+12. Document
+13. Dataset
+14. Email
+15. URL
+16. Instructions
+17. Notes
+18. Manuscript
+19. Diagram
+20. Blueprint
+21. Specification
+22. Template
+23. Presentation
+24. Form
+25. Questionnaire
