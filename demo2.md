@@ -61,3 +61,34 @@ No specific input provided, relying on the AI's internal knowledge.
 - **Output**: A detailed yet accessible explanation of solar panel operation.
 
 These examples demonstrate how the instruction, input,
+
+1. Write
+2. Summarize
+3. Describe
+4. Explain
+5. Calculate
+6. Analyze
+7. Translate
+8. Create
+9. Design
+10. Research
+11. Plan
+12. Report
+13. Compare
+14. Recommend
+15. Evaluate
+16. Illustrate
+17. Review
+18. Organize
+19. Outline
+20. Prepare
+21. Edit
+22. Proofread
+23. Present
+24. Solve
+25. Classify
+26. Define
+27. Schedule
+28. Implement
+29. Construct
+30. Identify
